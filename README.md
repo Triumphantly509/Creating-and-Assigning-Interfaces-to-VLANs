@@ -3,7 +3,13 @@
 ## Objective
 The objective of this lab is to configure VLANs on a Cisco switch representing different departments in an organization, assign switch interfaces to the appropriate VLANs, and manage the switch using a console connection.
 ## Skills learned
-
+- Creating VLANs on a Cisco switch to segment network traffic.
+- Assigning switch interfaces to specific VLANs using access ports.
+- Renaming VLANs to reflect departmental network organization.
+- Deleting VLANs from the switch configuration.
+- Verifying VLAN configuration using Cisco IOS commands.
+- Understanding how VLANs create separate broadcast domains within the same physical switch.
+- Managing a Cisco switch through a console connection.
 ## Tools used
 
 ## Commands Practiced
