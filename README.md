@@ -38,7 +38,7 @@ The network is segmented into three VLANs representing different departments: St
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/feac72dc-182e-4d53-a04b-3e54c53ebf91" />
 </div>
 
-### Basic switch configuration line console 0 using username and password
+### Basic switch configuration for line console 0 using a username and password
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/546b0b76-be1b-4429-aa82-5bc62baee419" />
 </div>
@@ -54,13 +54,13 @@ The network is segmented into three VLANs representing different departments: St
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/491db6ff-cb42-409c-9393-40934c60dc9d" />
 </div>
 
-### How to delete VLAN 40
+### Delete VLAN 40
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/161bf8a0-3abd-47f3-a796-21ab0c8094b8" />
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/288599ff-d8fd-4357-a1b8-31cbbcf27727" />
 </div>
 
-### How to rename VLANS
+### Rename VLANS
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/6b70357d-00ea-47b2-b922-df30eb25e06d" />
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/5970762c-7b00-4c13-bf06-e94df133cc11" />
