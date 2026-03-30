@@ -36,7 +36,15 @@ The network is segmented into three VLANs representing different departments: St
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/161bf8a0-3abd-47f3-a796-21ab0c8094b8" />
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/288599ff-d8fd-4357-a1b8-31cbbcf27727" />
-
 </div>
+
+### How to rename VLANS
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/6b70357d-00ea-47b2-b922-df30eb25e06d" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5970762c-7b00-4c13-bf06-e94df133cc11" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/a7bd18cd-8782-4908-baec-f70b9cdb24f9" />
+</div>
+
+
 
 
