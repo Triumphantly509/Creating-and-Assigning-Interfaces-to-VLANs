@@ -11,9 +11,25 @@ The objective of this lab is to configure VLANs on a Cisco switch representing d
 - Understanding how VLANs create separate broadcast domains within the same physical switch.
 - Managing a Cisco switch through a console connection.
 ## Tools used
-
+- Cisco Packet Tracer
+- Cisco 2960 Switch 
+- PC Hosts 
+- Console Cable 
+- Cisco IOS CLI
 ## Commands Practiced
-
+- enable
+- configure terminal
+- vlan 10
+- name ACCOUNTANT
+- interface fa0/1
+- switchport mode access
+- switchport access vlan 10
+- vlan 10
+- name ENGINEERING
+- no vlan 10
+- show vlan brief
+- show running-config
+- show interfaces switchport
 ## Lab Topology
 
 The network is segmented into three VLANs representing different departments: Students, IT_department, and Administration. Each VLAN is assigned to a specific switch interface to isolate traffic between departments. The switch is managed through a console connection from a dedicated management PC.
