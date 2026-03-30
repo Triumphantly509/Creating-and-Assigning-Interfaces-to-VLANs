@@ -69,9 +69,8 @@ The network is segmented into three VLANs representing different departments: St
 
 ## Assign interfaces to VLANS
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5cfb6c77-3736-4016-8096-54deb297d567" 
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5cfb6c77-3736-4016-8096-54deb297d567" />
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/7c3311b5-a26b-4911-b046-c3b0468bf698" />
-
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/d738c2d0-d8e0-4d5b-b55e-d98004bddf5f" />
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/f1526093-e6ea-4179-9b89-c10900027289" />
 
