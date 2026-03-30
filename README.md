@@ -9,3 +9,9 @@ The objective of this lab is to configure VLANs on a Cisco switch representing d
 ## Commands Practiced
 
 ## Lab Topology
+
+The network is segmented into three VLANs representing different departments: Students, IT_department, and Administration. Each VLAN is assigned to a specific switch interface to isolate traffic between departments. The switch is managed through a console connection from a dedicated management PC.
+
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/feac72dc-182e-4d53-a04b-3e54c53ebf91" />
+</div>
